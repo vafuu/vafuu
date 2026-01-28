@@ -26,3 +26,6 @@ I'm a 16-year-old aspiring **Software Engineer** from Spain 🇪🇸 with a drea
 ### 📫 How to reach me:
 * Gmail: cristiandelgadooliveira10@gmail.com
 * Or just follow my progress here on GitHub!
+
+![Cristian's GitHub stats](https://github-readme-stats.vercel.app/api?username=vafuu&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vafuu&layout=compact&theme=tokyonight)

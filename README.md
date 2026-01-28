@@ -16,7 +16,8 @@ I'm a 16-year-old aspiring **Software Engineer** from Spain 🇪🇸 with a drea
 * **Tools:** Git, GitHub, VS Code
 
 ### 🎯 My Goals:
-- [ ] Complete the Responsive Web Design Certification.
+- [x] Complete the Basic HTML section (128/128 steps) ✅
+- [ ] Complete the Full Responsive Web Design Certification.
 - [ ] Start learning JavaScript.
 - [ ] Reach JLPT N5 level in Japanese.
 

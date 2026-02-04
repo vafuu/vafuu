@@ -16,7 +16,7 @@ I'm a 16-year-old aspiring **Software Engineer** from Spain 🇪🇸 with a drea
 ### 🎯 My Milestones:
 - [x] Complete Basic HTML section (128/128 steps) ✅
 - [x] Complete Computer Basics module (16/16 steps) ✅
-- [ ] Complete Semantic HTML & Forms.
+- [x] Complete Semantic HTML & Forms.
 - [ ] Finish the Full Responsive Web Design Certification.
 - [ ] Reach JLPT N5 level in Japanese.
 
